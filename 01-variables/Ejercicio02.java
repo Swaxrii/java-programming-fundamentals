@@ -12,7 +12,7 @@ public class Ejercicio02 {
         System.out.println("Resta: " + (num1 - num2));
         System.out.println("Multiplicación: " + (num1 * num2));
         System.out.println("División: " + (double) num1 / num2);
-    sc.close();
+        sc.close();
 
     }
 }
